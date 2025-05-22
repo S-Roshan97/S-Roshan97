@@ -6,7 +6,7 @@
   <a href="https://youtube.com/@RoshanGeeks" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-  <a href="www.linkedin.com/in/sivasangar-roshan-6b4767339" target="_blank">
+  <a href="(https://www.linkedin.com/in/sivasangar-roshan-6b4767339/?trk=public-profile-join-page)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="sivaroshan97@gmailcom" target="_blank">
