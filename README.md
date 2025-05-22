@@ -6,13 +6,17 @@
   <a href="https://youtube.com/@RoshanGeeks" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/sivasangar-roshan-6b4767339/?trk=public-profile-join-page" target="_blank">
+  <a href="www.linkedin.com/in/sivasangar-roshan-6b4767339" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="mailto:sivaroshan97@gmailcom" target="_blank">
+  <a href="sivaroshan97@gmailcom" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/S-Roshan97/S-Roshan97/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -34,13 +38,17 @@
 
 ###
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/S-Roshan97/S-Roshan97/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/S-Roshan97/S-Roshan97/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/S-Roshan97/S-Roshan97/output/github-snake.svg" />
-</picture>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=S-Roshan97&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=S-Roshan97&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/S-Roshan97/S-Roshan97/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/S-Roshan97/S-Roshan97/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/S-Roshan97/S-Roshan97/output/pacman-contribution-graph.svg">
+</picture>
+
+###
