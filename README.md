@@ -1,6 +1,6 @@
 
 
-# Hello World!, I'm S.Roshan, a Programmer 👋🏼:
+# Hello World!, I'm S.Roshan, a Programmer 👋🏼
 🎬 This is my youtube channel : <i>Roshan Geeks</i>
 
 
