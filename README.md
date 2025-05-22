@@ -1,7 +1,7 @@
 
 
 # Hello World!, I'm S.Roshan, a Programmer 👋🏼
-🎬 This is my youtube channel : [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]
+🎬 This is my youtube channel : Roshan Geeks [YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)
 
 
 
