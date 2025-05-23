@@ -15,13 +15,6 @@
 </div>
 
 ###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/S-Roshan97/S-Roshan97/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/S-Roshan97/S-Roshan97/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/S-Roshan97/S-Roshan97/output/github-snake.svg" />
-</picture>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -57,5 +50,10 @@
 
 ###
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/S-Roshan97/S-Roshan97/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/S-Roshan97/S-Roshan97/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/S-Roshan97/S-Roshan97/output/github-snake.svg" />
+</picture>
+###
 
