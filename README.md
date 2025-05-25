@@ -4,8 +4,6 @@
   </a>
 </div>
 
-
-
 <div align="center">
   <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTN5ZGJkeW5zNmRyYzVnbjcwc2Vkc3h3Z2J3bDVxYmRpOHh6dTJ5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 </div>
