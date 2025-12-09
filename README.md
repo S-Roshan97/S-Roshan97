@@ -39,13 +39,7 @@
 
 ## GitHub Status
 
-<div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s-roshan97&show_icons=true&locale=en" alt="s-roshan97" /></p>
-</div>
 
-<div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=s-roshan97&show_icons=true&locale=en&layout=compact" alt="s-roshan97" /></p>
-</div>
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/S-Roshan97/S-Roshan97/output/github-snake-dark.svg" />
@@ -55,6 +49,3 @@
 </div>
 
 
-<div align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-roshan97&" alt="s-roshan97" />
-</div>
