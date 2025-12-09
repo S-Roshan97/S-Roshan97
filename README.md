@@ -1,8 +1,4 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C59F7&width=700&lines=Hi+%F0%9F%91%8B!+I+am+Roshan+and%2C+I'm+a+Programmer+and+Youtuber+!+!" alt="Typing SVG" />
-  </a>
-</div>
+<h2 align="center">Hi 👋! My name is Roshan and , I'm a Programmer and Youtuber</h2>
 
 <div align="center">
   <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTN5ZGJkeW5zNmRyYzVnbjcwc2Vkc3h3Z2J3bDVxYmRpOHh6dTJ5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
@@ -25,6 +21,21 @@
 ## Language and tools
 
 ###
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+</div>
 
 ## GitHub Status
 
@@ -42,6 +53,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/S-Roshan97/S-Roshan97/output/github-snake.svg" />
 </picture>
 </div>
+
 
 <div align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-roshan97&" alt="s-roshan97" />
