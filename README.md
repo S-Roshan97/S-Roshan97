@@ -40,11 +40,11 @@
 ## GitHub Status
 
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s-roshan97&show_icons=true&locale=en" alt="s-roshan97" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=S-Roshan97&show_icons=true&locale=en" alt="S-Roshan97" /></p>
 </div>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=s-roshan97&show_icons=true&locale=en&layout=compact" alt="s-roshan97" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=S-Roshan97&show_icons=true&locale=en&layout=compact" alt="S-Roshan97" /></p>
 </div>
 <div align="center">
 <picture>
@@ -56,5 +56,5 @@
 
 
 <div align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-roshan97&" alt="s-roshan97" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=S-Roshan97&" alt="S-Roshan97" />
 </div>
