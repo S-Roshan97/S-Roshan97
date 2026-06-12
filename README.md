@@ -39,10 +39,6 @@
 
 ## GitHub Status
 
-
-<div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=s-roshan97&show_icons=true&locale=en&layout=compact" alt="s-roshan97" /></p>
-</div>
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/S-Roshan97/S-Roshan97/output/github-snake-dark.svg" />
