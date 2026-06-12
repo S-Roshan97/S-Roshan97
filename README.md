@@ -60,4 +60,25 @@
 </picture>
 </div>
 
+## 📺 Latest YouTube Videos
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=DnxqZIJVdlY">
+    <img src="https://img.youtube.com/vi/DnxqZIJVdlY/maxresdefault.jpg" width="170">
+  </a>
+  <a href="https://www.youtube.com/watch?v=2GL9-OlBlc8">
+    <img src="https://img.youtube.com/vi/2GL9-OlBlc8/maxresdefault.jpg" width="170">
+  </a>
+  <a href="https://www.youtube.com/watch?v=I2Fg3YVMz-c">
+    <img src="https://img.youtube.com/vi/I2Fg3YVMz-c/maxresdefault.jpg" width="170">
+  </a>
+  <a href="https://www.youtube.com/watch?v=06Rq1RGhpWU">
+    <img src="https://img.youtube.com/vi/06Rq1RGhpWU/maxresdefault.jpg" width="170">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/channel/UC5NS5A1-xGtMTnlsSkfWikg?sub_confirmation=1">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white" />
+  </a>
+</p>
