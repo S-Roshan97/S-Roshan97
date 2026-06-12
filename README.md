@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋! My name is Roshan and , I'm a Programmer and Youtuber</h2>
 
 <div align="center">
-  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTN5ZGJkeW5zNmRyYzVnbjcwc2Vkc3h3Z2J3bDVxYmRpOHh6dTJ5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTN5ZGJkeW5zNmRyYzVnbjcwc2Vkc3h3Z2J3bDVxYmRpOHh6dTJ5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 </div>
 
 ###
@@ -37,16 +37,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
 
-## 📺 Latest YouTube Videos
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Your Video Title](https://ytcards.demolab.com/?id=DnxqZIJVdlY&title=Your+Video+Title&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=4.83,4.83,4.83,4.83 "Your Video Title")](https://www.youtube.com/watch?v=DnxqZIJVdlY)
-<!-- END YOUTUBE-CARDS -->
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UC5NS5A1-xGtMTnlsSkfWikg?sub_confirmation=1)
-
 ## GitHub Status
 
+<div align="center">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s-roshan97&show_icons=true&locale=en" alt="s-roshan97" /></p>
+</div>
+
+<div align="center">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=s-roshan97&show_icons=true&locale=en&layout=compact" alt="s-roshan97" /></p>
+</div>
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/S-Roshan97/S-Roshan97/output/github-snake-dark.svg" />
@@ -55,3 +54,7 @@
 </picture>
 </div>
 
+
+<div align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-roshan97&" alt="s-roshan97" />
+</div>
