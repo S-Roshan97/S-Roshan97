@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋! My name is Roshan and , I'm a Programmer and Youtuber</h2>
 
 <div align="center">
-  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTN5ZGJkeW5zNmRyYzVnbjcwc2Vkc3h3Z2J3bDVxYmRpOHh6dTJ5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTN5ZGJkeW5zNmRyYzVnbjcwc2Vkc3h3Z2J3bDVxYmRpOHh6dTJ5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Code using laptop"/>
 </div>
 
 ###
@@ -37,6 +37,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
 
+## 📺 Latest YouTube Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Your Video Title](https://ytcards.demolab.com/?id=DnxqZIJVdlY&title=Your+Video+Title&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Your Video Title")](https://www.youtube.com/watch?v=DnxqZIJVdlY)
+<!-- END YOUTUBE-CARDS -->
+
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
+
 ## GitHub Status
 
 
@@ -47,5 +55,4 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/S-Roshan97/S-Roshan97/output/github-snake.svg" />
 </picture>
 </div>
-
 
