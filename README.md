@@ -18,7 +18,7 @@
 </div>
 
 ---
-<h2 align="center">Laguage and Tools</h2>
+<h2 align="center">Laguages and Tools</h2>
 
 ## Embedded System
 <div align="center">
