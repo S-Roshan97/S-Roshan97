@@ -2,9 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Hi%20%F0%9F%91%8B!%20My%20name%20is%20Roshan%2C%20I'm%20a%20Programmer%20and%20Youtuber&fontSize=26&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false" width="100%"/>
 </p>
 
-
 <!-- //<h2 align="center">Hi 👋! My name is Roshan and , I'm a Programmer and Youtuber</h2>-->
-
 
 <div align="center">
   <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTN5ZGJkeW5zNmRyYzVnbjcwc2Vkc3h3Z2J3bDVxYmRpOHh6dTJ5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
